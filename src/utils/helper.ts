@@ -1,5 +1,5 @@
 import multer from "multer";
-import { findConfigurationByIp } from "../models/Surveillance";
+// import { findConfigurationByIp } from "../models/Surveillance";
 
 const fs = require("fs");
 const path = require("path");
